@@ -29,5 +29,5 @@ The dashboard provides insights about the best players from the T20 World Cup 20
 <br>
 # Results
 The dashboard provides a analysis of player performances.<br><br>
-Insights into the best openers, middle order, finishers, all rounders, bowlers based on defined parameters in AIM file(given).<br><br>
+Insights into the best openers, middle order, finishers, all rounders and bowlers based on defined parameters in AIM file(given).<br><br>
 Helped to form an optimal 11-player team based on performance in the T20 World Cup 2022<br>
